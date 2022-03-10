@@ -19,6 +19,9 @@
 ## To give input numbers and run the program:
 
 `./computePower`
+## Example:
+
+![testcase](https://user-images.githubusercontent.com/61328094/157567269-f744bed8-b930-4c4f-a7d3-e120ce6b6177.jpg)
 
 ## To run the google unit tests:
 
@@ -26,3 +29,6 @@
 
 `./unittest`
 
+## Example:
+
+![Unittest](https://user-images.githubusercontent.com/61328094/157567301-e3afae5f-5a76-4bf8-9b41-ced202f891d2.jpg)
