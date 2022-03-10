@@ -8,6 +8,10 @@
 
 `cd power-calculator-for-large-numbers`
 
+`mkdir build`
+
+`cd build`
+
 `cmake ..`
 
 `make`
